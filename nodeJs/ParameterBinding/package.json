@@ -12,6 +12,6 @@
     "express": "^4.17.1",
     "mongoose": "^6.1.6",
     "multer": "^1.4.4",
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.17"
   }
 }
