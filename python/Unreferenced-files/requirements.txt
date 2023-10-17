@@ -4,3 +4,4 @@ requests==2.19.1
 Werkzeug==0.14.1
 Flask-AutoIndex==0.6
 Flask-BasicAuth==0.2.0
+urllib3>=1.24.2 # not directly required, pinned by Snyk to avoid a vulnerability
