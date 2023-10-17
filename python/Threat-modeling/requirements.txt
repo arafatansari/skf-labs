@@ -1,3 +1,4 @@
 Flask==2.2.2
 requests==2.19.1
 Werkzeug==02.2.2
+urllib3>=1.24.2 # not directly required, pinned by Snyk to avoid a vulnerability
