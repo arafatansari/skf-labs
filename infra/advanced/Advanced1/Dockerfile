@@ -3,7 +3,7 @@
 #docker run  -h advanced1 -ti -p 80:80 -p 22:22 -p 21:21 -p 7000-7010:7000-7010 advanced1
 # Note: Windows command line FTP does not support passive mode. use linux FTP to connect and type pass to switch to passive mode
 # Alternatively use a windows client like filzilla to connect to the FTP server
-FROM debian:buster-20210111-slim
+FROM debian:buster-20231030-slim
 RUN apt-get update
 RUN apt-get install -y net-tools
 RUN apt-get install -y sudo
