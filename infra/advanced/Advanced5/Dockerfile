@@ -3,7 +3,7 @@
 #docker run  -h 8dvanced5 -ti -p 80:80 -p 22:22 advanced5
 #Skytower from sqli to root, a realistic way
 
-FROM debian:buster-20210111-slim
+FROM debian:buster-20231030-slim
 RUN apt-get update
 
 # --------- mysql----------
