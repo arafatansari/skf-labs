@@ -14,7 +14,7 @@
     "express-fileupload": "^1.2.1",
     "express-session": "^1.17.2",
     "nodemon": "^2.0.14",
-    "sqlite3": "^5.0.2",
+    "sqlite3": "^5.0.3",
     "xlsx": "^0.17.5"
   }
 }
