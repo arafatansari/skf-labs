@@ -1,5 +1,5 @@
 ### Static layers
-FROM alpine:3.7
+FROM alpine:3.18.5
 
 # Installing needed binaries and deps. Then removing unneeded deps:
 RUN apk update --no-cache && apk add nodejs nodejs-npm bash git dos2unix imagemagick
