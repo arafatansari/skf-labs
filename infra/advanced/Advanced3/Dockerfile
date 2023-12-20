@@ -5,7 +5,7 @@
 #      Some extra quotes are required: ssh -t john@localhost "rm '.bashrc'"
 #      On this machine port 22 is not filtered
 
-FROM debian:buster-20210111-slim
+FROM debian:10-slim
 
 # --------- mysql----------
 RUN apt-get update
