@@ -1,6 +1,6 @@
 ### Static layers
 
-FROM python:3.7-alpine AS skf-alpine37
+FROM python:3.13.0a3-alpine AS skf-alpine37
 LABEL Glenn ten Cate <glenn.ten.cate@owasp.org>
 
 # Installing needed binaries and deps. Then removing unneeded deps:
