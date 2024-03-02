@@ -1,6 +1,6 @@
 ### Static layers
 
-FROM mongo:6.0.2 AS skf-mongo
+FROM mongo:6.0.14 AS skf-mongo
 
 # Installing needed binaries and deps. Then removing unneeded deps:
 RUN apt update && apt install -y python3 python3-dev python3-pip dos2unix
