@@ -9,12 +9,12 @@
   "author": "Bruno Rodrigues",
   "dependencies": {
     "ejs": "^3.1.6",
-    "exceljs": "^4.3.0",
+    "exceljs": "^4.4.0",
     "express": "^4.17.1",
     "express-fileupload": "^1.2.1",
     "express-session": "^1.17.2",
-    "nodemon": "^2.0.14",
-    "sqlite3": "^5.0.2",
+    "nodemon": "^3.0.0",
+    "sqlite3": "^5.0.3",
     "xlsx": "^0.17.5"
   }
 }
