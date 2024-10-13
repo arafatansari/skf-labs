@@ -8,11 +8,11 @@
   },
   "author": "Bruno Rodrigues",
   "dependencies": {
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.7",
     "cookie-session": "^2.0.0",
     "ejs": "^3.1.6",
-    "express": "^4.17.1",
-    "express-session": "^1.17.2",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
     "nodemon": "^2.0.14",
     "sqlite3": "^5.0.2"
   }
