@@ -1,5 +1,6 @@
 Flask==0.10.1
 flask-cors==3.0.7
 requests==2.19.1
-Werkzeug==0.14.1
+Werkzeug==3.1.5
 Flask-Excel
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
